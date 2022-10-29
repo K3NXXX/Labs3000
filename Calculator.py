@@ -1,7 +1,7 @@
 x = "e"
 while x == "e":
     num1 = int(input("Enter first number: "))
-    num2 = input("Choose action:")
+    num2 = input("Choose an operation:")
     num3 = int(input("Enter second number: "))
 
     if num2 == "+":
